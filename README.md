@@ -1,3 +1,4 @@
 # Implementation of neural networks architecture from scratch 
-Transformer 
-U-net 
+1 -- Transformer 
+
+2 -- U-net 
