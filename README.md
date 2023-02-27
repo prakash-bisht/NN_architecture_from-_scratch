@@ -1,1 +1,3 @@
-# NN_architecture_from-_scratch
+# Implementation of neural networks architecture from scratch 
+Transformer 
+U-net 
